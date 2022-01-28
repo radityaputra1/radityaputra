@@ -9,14 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
 </div>
 
-<h3>Happy Codding <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonynguyenit18&repo=github-readme-social-article)](https://github.com/tonynguyenit18/github-readme-social-article)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonynguyenit18&repo=react-pixelate)](https://github.com/tonynguyenit18/react-pixelate)
-
-<h3>Happy Writing <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
-
 **Medium**
 
 ![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
